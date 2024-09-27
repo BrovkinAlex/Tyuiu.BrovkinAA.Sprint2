@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BrovkinAA.Sprint2.Tas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BrovkinAA.Sprint2.Task4.V11.Test", "Tyuiu.BrovkinAA.Sprint2.Task4.V11.Test\Tyuiu.BrovkinAA.Sprint2.Task4.V11.Test.csproj", "{F00B5D05-DD3C-456C-BD75-62ECC7D98BF0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Taks5", "Taks5", "{5DBA9D80-0F98-41F4-9559-2AB75E54336A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
